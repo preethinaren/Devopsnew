@@ -1,5 +1,4 @@
 adding new file
 making changes to this file
 feture1
-feature2
 feature3
